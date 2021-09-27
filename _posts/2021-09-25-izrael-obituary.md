@@ -1,5 +1,5 @@
 ---
-title: "מודעת אבל לישראל קעניגסבערג"
+title: "מודעת אבל על ישראל קעניגסבערג"
 date: 2021-09-25
 categories:
   - blog
@@ -13,7 +13,7 @@ tags:
 הבניין המשותף, עם החצר הפנימית והשער לרחוב מתאימים לסיפורים
 של זאב על משחק כדורגל.
 
-![Obituary](/pupko-papers/assets/images/izrael-obituary.jpg)
+![Obituary](/pupko-papers/assets/images/1938-02-17-izrael-obituary.jpg)
 
 הודעה על פטירת ישראל קעניגסבערג
 
