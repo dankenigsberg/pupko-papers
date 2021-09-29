@@ -1,8 +1,8 @@
 ---
 title: "מודעת אבל על ישראל קעניגסבערג"
-date: 2021-09-25
+date: 1938-02-17
 categories:
-  - blog
+  - letter
 tags:
   - vilnius
   - izrael

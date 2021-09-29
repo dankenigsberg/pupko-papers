@@ -1,8 +1,8 @@
 ---
 title: "השל בסארוב"
-date: 2021-09-28
+date: 1932-12-23
 categories:
-  - blog
+  - letter
 tags:
   - heschl
 ---

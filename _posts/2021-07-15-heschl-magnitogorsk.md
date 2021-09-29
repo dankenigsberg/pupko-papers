@@ -1,8 +1,8 @@
 ---
 title: "דרישת שלום ממגניטוגורסק"
-date: 2021-07-15
+date: 1934-02-24
 categories:
-  - blog
+  - letter
 tags:
   - heschl
   - izrael
