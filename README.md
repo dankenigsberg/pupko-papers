@@ -5,5 +5,5 @@ content without explicit permission from me.
 
 # Thanks
 
-This blog is using
+This [blog](https://dankenigsberg.github.io/pupko-papers/) is using
 [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
