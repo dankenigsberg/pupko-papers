@@ -22,6 +22,12 @@ twitter_username: dankengisberg
 github_username: DanKengisberg
 minimal_mistakes_skin: default
 search: true
+repository: dankengisberg/pupko-papers
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light"
+    issue_term: "pathname"
 
 # Build settings
 markdown: kramdown
