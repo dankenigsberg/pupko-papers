@@ -29,6 +29,11 @@ comments:
     theme: "github-light"
     issue_term: "pathname"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: 'G-1KCRKJM8F6'
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
