@@ -6,6 +6,7 @@ categories:
 tags:
   - naum
   - malka
+  - maccabi
 ---
 
 משתמע שנחום קריזובסקי
