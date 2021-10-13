@@ -27,8 +27,10 @@ Wilno ul Pilsudskiego 45 n 2
 Poland
 
 צילה טרוצקי,
-אחת מ"שלוש הגרציות".
-
+אחת
+מ"שלוש הגרציות"
+![שלוש](/pupko-papers/assets/images/1934-04-15-guessed-date-miriam-rivka-cyla.jpg)
+(ראשונה מימין)
 
 ## נמען
 
