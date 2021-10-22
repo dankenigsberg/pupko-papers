@@ -1,6 +1,6 @@
 ---
 title: "דרישת שלום ממגניטוגורסק"
-date: 1934-02-24
+date: 1937-02-24
 categories:
   - letter
 tags:
