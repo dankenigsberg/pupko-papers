@@ -5,6 +5,7 @@ categories:
   - letter
 tags:
   - rivka
+  - ginstlung
 ---
 
 הוריה של סבתא רבקה היו אמידים למדי.
