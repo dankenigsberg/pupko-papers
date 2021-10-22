@@ -8,9 +8,9 @@ tags:
 ---
 
 <figure class="half">
-    <a  href="/pupko-papers/assets/images/1939-08-24-meqor-hayim-moshe-1.jpg">
-    <img src="/pupko-papers/assets/images/1939-08-24-meqor-hayim-moshe-1.jpg"></a>
-    <a  href="/pupko-papers/assets/images/1939-08-24-meqor-hayim-moshe-2.jpg">
-    <img src="/pupko-papers/assets/images/1939-08-24-meqor-hayim-moshe-2.jpg"></a>
+    <a  href="/pupko-papers/assets/images/1939-08-24-meqor-hayim-moshe-second-1.jpg">
+    <img src="/pupko-papers/assets/images/1939-08-24-meqor-hayim-moshe-second-1.jpg"></a>
+    <a  href="/pupko-papers/assets/images/1939-08-24-meqor-hayim-moshe-second-2.jpg">
+    <img src="/pupko-papers/assets/images/1939-08-24-meqor-hayim-moshe-second-2.jpg"></a>
 </figure>
 
