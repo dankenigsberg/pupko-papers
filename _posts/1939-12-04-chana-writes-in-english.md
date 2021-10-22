@@ -26,9 +26,9 @@ Vilno 4 december 1939 year.
 Our dear Rywa!
 
 We are all healthy and we work  
-in the ship. We send to you no  
+in the shop. We send to you no  
 one letter, but from you we beco=  
-me any answe. We are very  
+me any answer. We are very  
 ... and we wait from your  
 answer with anpatience.
 
