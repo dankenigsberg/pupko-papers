@@ -6,6 +6,7 @@ categories:
 tags:
   - heschl
   - izrael
+  - magnitogorsk
 ---
 
 ב-24 בפברואר 1937, בעיר [מגניטוגורסק](https://en.wikipedia.org/wiki/Magnitogorsk) שבהרי אורל,
