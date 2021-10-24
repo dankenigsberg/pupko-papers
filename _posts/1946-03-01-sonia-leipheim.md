@@ -6,9 +6,10 @@ categories:
 tags:
   - rivka
   - sonia
-  - mirale
+  - miriam
   - chana
   - hirschajzenfeld
+  - leipheim
 ---
 
 סוניה ומרים חיו בארץ לפני המלחמה, ולכן קיוו שיוכלו לקבל אישור עליה בקלות יחסית.
