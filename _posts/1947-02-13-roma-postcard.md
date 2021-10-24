@@ -36,8 +36,8 @@ tags:
 
 
 Italia. Castel Gandolfo (Roma)  
-[Via Albalonga 3](https://goo.gl/maps/pJm3PeM64LuXvdkq7)  
-Villa Vaselini  
+[Via Albalonga 3](https://goo.gl/maps/cFeYvpfYsbEmsbLaA)  
+Villa Vaselli  
 (Cfar Hanoar)  
 M. Ajzenfeld  
 
