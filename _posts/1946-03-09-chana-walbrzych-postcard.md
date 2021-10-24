@@ -58,3 +58,13 @@ tags:
 כ'קוש אײַך שטאַרק שטאַרק. אײַער בענקענדיקע  
 
 כאַנקע.
+
+## כתובות
+
+H. Pupko  
+[Świętej Jadwigi](https://goo.gl/maps/BrYtcXKp8UHUPTea9) 3, Wałbrzych, Polska
+
+W Kenigsberg  
+65 Maze st  
+Tel Aviv  
+Palestina
