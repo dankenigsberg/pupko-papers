@@ -10,6 +10,7 @@ tags:
   - chana
   - hirschajzenfeld
   - leipheim
+  - israelicl
 ---
 
 סוניה ומרים חיו בארץ לפני המלחמה, ולכן קיוו שיוכלו לקבל אישור עליה בקלות יחסית.

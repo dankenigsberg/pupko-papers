@@ -5,7 +5,7 @@ categories:
   - letter
 tags:
   - chana
-  - israel
+  - israelicl
 ---
 
 חנה הצליחה לצאת מברית המועצות אל פולין.
