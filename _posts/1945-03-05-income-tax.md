@@ -5,6 +5,7 @@ categories:
   - form
 tags:
   - zeev
+  - income
 ---
 
 ![text](/pupko-papers/assets/images/1945-03-05-income-tax.jpg)

@@ -5,6 +5,7 @@ categories:
   - form
 tags:
   - zeev
+  - radio
 ---
 
 סבא זאב נפטר עם חוב על חשבון אגרת הטלוויזיה.
