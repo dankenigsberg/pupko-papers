@@ -6,6 +6,7 @@ categories:
 tags:
   - rivka
   - hirschpupko
+  - needtrans
 ---
 
 אני יכול רק לנחש כמה מתוסכלת היתה סבתא רבקה

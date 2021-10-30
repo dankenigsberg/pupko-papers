@@ -6,6 +6,7 @@ categories:
 tags:
   - heschl
   - magnitogorsk
+  - needtrans
 ---
 
 ![Magnitogorsk](/pupko-papers/assets/images/1933-12-27-heschel-magnitogorsk-1.jpg)
