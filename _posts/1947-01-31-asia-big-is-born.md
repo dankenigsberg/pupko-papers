@@ -6,9 +6,10 @@ categories:
 tags:
   - shimon
   - israelicl
+  - asia
 ---
 
-![twopages](/pupko-papers/assets/images/197-01-31-asia-big-is-born.jpg)
+![twopages](/pupko-papers/assets/images/1947-01-31-asia-big-is-born.jpg)
 
 ## תרגום
 
