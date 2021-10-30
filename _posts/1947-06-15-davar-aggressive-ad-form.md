@@ -5,6 +5,7 @@ categories:
   - form
 tags:
   - zeev
+  - histadrut
 ---
 
 סבא זאב קרא את "הארץ", לא את "דבר".
