@@ -6,6 +6,7 @@ categories:
 tags:
   - miriam
   - sonia
+  - unknowndate
 ---
 
 תאריך לא ידוע, אבל נרמז שמלחמת השחרור עדיין מתחוללת. הכפר אל-ג'ליל נכבש

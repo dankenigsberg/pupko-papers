@@ -1,10 +1,13 @@
 ---
 title: טרם תורגם - 
-date: 1947-11-15-unknown-sender
+date: 1947-11-15
 categories:
   - letter
 tags:
   - rivka
+  - unknownsender
+  - unknowndate
+  - needtrans
 ---
 
 <figure class="half">

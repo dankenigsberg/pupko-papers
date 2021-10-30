@@ -1,6 +1,6 @@
 ---
 title: פג תוקף: רישיון למקלט רדיו
-date: 1948-01-30-radio-licence
+date: 1948-01-30
 categories:
   - form
 tags:

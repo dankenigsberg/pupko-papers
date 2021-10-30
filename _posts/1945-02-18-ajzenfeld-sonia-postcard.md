@@ -6,6 +6,7 @@ categories:
 tags:
   - rivka
   - sonia
+  - unknowndate
 ---
 
 דודה סוניה היתה אחותה של דובה, אימא של סבתא רבקה.

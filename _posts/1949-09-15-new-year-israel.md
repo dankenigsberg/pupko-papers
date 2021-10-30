@@ -1,10 +1,11 @@
 ---
 title: שנה טובה מישראל
-date: 1949-09-15-new-year-israel
+date: 1949-09-15
 categories:
   - letter
 tags:
   - israelicl
+  - unknowndate
 ---
 
 התאריך לא ברור, אבל מכיוון שהכתב הוא של גננת ולא של ילד

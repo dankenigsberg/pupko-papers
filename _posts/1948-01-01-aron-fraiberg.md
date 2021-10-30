@@ -1,10 +1,12 @@
 ---
 title: טרם תורגם - 
-date: 1948-01-01-aron-fraiberg
+date: 1948-01-01
 categories:
   - letter
 tags:
   - miriam
+  - unknowndate
+  - needtrans
 ---
 
 <figure class="half">

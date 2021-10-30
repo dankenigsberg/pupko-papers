@@ -5,6 +5,7 @@ categories:
   - letter
 tags:
   - rivka
+  - unknowndate
 ---
 
 ייתכן שזה אחד המכתבים הראשונים להגיע מקפריסין.

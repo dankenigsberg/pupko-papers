@@ -1,11 +1,12 @@
 ---
 title: טרם תורגם - מרים וסוניה
-date: 1947-01-11-miriam-big-quashed
+date: 1947-01-11
 categories:
   - letter
 tags:
   - miriam
   - sonia
+  - needtrans
 ---
 
 <figure class="half">

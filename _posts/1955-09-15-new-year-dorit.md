@@ -1,6 +1,6 @@
 ---
 title: שנה טובה לדורית ממינה
-date: 1955-09-15-new-year-dorit
+date: 1955-09-15
 categories:
   - letter
 tags:

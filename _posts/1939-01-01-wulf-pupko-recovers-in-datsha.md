@@ -6,6 +6,8 @@ categories:
 tags:
   - wulfpupko
   - scheine
+  - unknowndate
+  - datsha
 ---
 
 ## תאריך לא ידוע

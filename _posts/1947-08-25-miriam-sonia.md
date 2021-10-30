@@ -1,6 +1,6 @@
 ---
 title: טרם תורגם - מרים
-date: 1947-08-25-miriam
+date: 1947-08-25
 categories:
   - letter
 tags:
@@ -10,6 +10,7 @@ tags:
   - hirschajzenfeld
   - werses
   - sonia
+  - needtrans
 ---
 
 <figure class="half">

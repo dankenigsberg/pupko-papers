@@ -1,8 +1,12 @@
 ---
 title: טרם תורגם - 
-date: 1958-04-08-unknown-sender
+date: 1958-04-08
 categories:
   - letter
+tags:
+  - unknownsender
+  - unknowndate
+  - needtrans
 ---
 
 <figure class="half">

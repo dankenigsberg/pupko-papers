@@ -11,6 +11,7 @@ tags:
   - hirschajzenfeld
   - leipheim
   - israelicl
+  - unknowndate
 ---
 
 סוניה ומרים חיו בארץ לפני המלחמה, ולכן קיוו שיוכלו לקבל אישור עליה בקלות יחסית.
