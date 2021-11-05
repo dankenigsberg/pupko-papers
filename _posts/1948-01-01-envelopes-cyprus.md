@@ -8,6 +8,7 @@ tags:
   - chana
   - sonia
   - unknowndate
+  - cyprus
 ---
 
 תאריך ללא ביסוס

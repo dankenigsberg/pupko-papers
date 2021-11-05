@@ -7,6 +7,7 @@ tags:
   - rivka
   - werses
   - needtrans
+  - cyprus
 ---
 
 <figure class="half">

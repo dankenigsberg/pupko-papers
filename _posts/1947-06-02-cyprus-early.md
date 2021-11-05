@@ -8,6 +8,7 @@ tags:
   - miriam
   - sonia
   - threads
+  - cyprus
 ---
 
 <figure class="half">

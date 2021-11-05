@@ -7,6 +7,7 @@ tags:
   - miriam
   - unknowndate
   - needtrans
+  - cyprus
 ---
 
 <figure class="half">

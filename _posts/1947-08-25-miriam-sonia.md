@@ -11,6 +11,7 @@ tags:
   - werses
   - sonia
   - needtrans
+  - cyprus
 ---
 
 <figure class="half">

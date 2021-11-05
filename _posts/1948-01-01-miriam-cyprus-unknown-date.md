@@ -7,6 +7,7 @@ tags:
   - rivka
   - zeev
   - africa
+  - cyprus
 ---
 
 <figure class="half">

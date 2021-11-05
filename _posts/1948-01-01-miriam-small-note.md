@@ -6,6 +6,7 @@ categories:
 tags:
   - rivka
   - unknowndate
+  - cyprus
 ---
 
 ייתכן שזה אחד המכתבים הראשונים להגיע מקפריסין.
