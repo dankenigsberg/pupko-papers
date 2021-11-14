@@ -7,6 +7,7 @@ tags:
   - heschl
   - izrael
   - magnitogorsk
+  - levinbros
 ---
 
 ב-24 בפברואר 1937, בעיר [מגניטוגורסק](https://en.wikipedia.org/wiki/Magnitogorsk) שבהרי אורל,
@@ -60,9 +61,11 @@ tags:
 
 ## השולח
 בריה"מ  
-עיר מגניטוגורסק, אזור קירוב, רחוב פיינרסקייה, דירה 2  
+עיר מגניטוגורסק, אזור קירוב, רחוב פיינרסקייה, בניין 2, דירה 17, חלק א'  
 הסל איזראילוביץ קניגסברג
 
+ייתכן שהשל גר באחד המבנים הישנים האלה, הרחוב עבר מספור מחדש מאז 1937.
+<iframe src="https://www.google.com/maps/embed?pb=!4v1636915627522!6m8!1m7!1sX5Yr5wi4yoGu7zrCu-yIiw!2m2!1d53.39031253242024!2d59.05833290457692!3f316.41482903562814!4f11.013239637737954!5f1.9587109090973311" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 ## נמענים
 
@@ -84,3 +87,6 @@ Hejfa חיפֿה\
 תודה להילדה אוחיון על קריאת הערבית
 
 לפי ויקיפדיה, רחוב חמרה נקרא היום [רחוב ח'טיב](https://goo.gl/maps/wbY3tgsEvPhRvZer9).
+שם שכן העסק של [האחים לוין](https://www.nli.org.il/he/sheets/NNL_Ephemera700126927/NNL_Ephemera?fbclid=IwAR3yOhSB9XFSAPlheNKvc5d88rjSMkb73Q_GQAL3vuXr_6cFWbsup8pGuJ4)
+וכך הרחוב נראה היום
+<iframe src="https://www.google.com/maps/embed?pb=!4v1636915910561!6m8!1m7!1sCAoSLEFGMVFpcE9xcFI0bTcxdkQ3aFVBQ3kzSmIxRFg2Y0Z6dlB2UkYtRks2aWRy!2m2!1d32.81681199653801!2d34.99974095821381!3f210.53038197352325!4f15.765589360234713!5f0.7820865974627469" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
