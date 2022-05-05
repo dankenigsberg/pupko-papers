@@ -25,7 +25,7 @@ tags:
     <figcaption>Heschl in Sarov</figcaption>
 </figure>
 
-# תרגמה נאוה ליטווק, בעריכתי
+# תרגמה נאוה ליטבק, בעריכתי
 
 סארוב 23 בדצמבר 1932
 

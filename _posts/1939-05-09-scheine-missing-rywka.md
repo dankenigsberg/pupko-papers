@@ -25,7 +25,7 @@ tags:
     <img src="/pupko-papers/assets/images/1939-05-09-scheine-2.jpg"></a>
 </figure>
 
-## תרגמה נאוה ליטווק, בעריכתי
+## תרגמה נאוה ליטבק, בעריכתי
 
 ריבה'לה יקרה!
 

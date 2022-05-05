@@ -18,7 +18,7 @@ tags:
 ![Magnitogorsk](/pupko-papers/assets/images/1933-12-27-heschel-magnitogorsk-1.jpg)
 ![Magnitogorsk](/pupko-papers/assets/images/1933-12-27-heschel-magnitogorsk-2.jpg)
 
-## תרגום: נאוה ליטווק, בעריכתי
+## תרגום: נאוה ליטבק, בעריכתי
 
 27.3.33
 מגניטוגורסק
