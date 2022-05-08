@@ -1,12 +1,12 @@
 ---
-title: רכון פולני של זאב
+title: דרכון פולני של זאב
 date: 1939-03-28-zeev-passport
 categories:
   - letter
 tags:
   - zeev
   - passport
-  - needstrans
+  - needtrans
 ---
 
 <figure class="half">
@@ -35,4 +35,22 @@ tags:
 </figure>
 
 ## תמלול
+
+### I
+Paszport  
+Rzesczpospolita Polska
+
+דרכון  
+הרפובליקה הפולנית
+
+### II
+
+Starostwo Grodzkie Wileńskie  
+Paszport po wykorzystaniu nalezy  
+zwrocic wladzy ktora go wydala
+
+המשרד המחוזי של וילנה  
+לאחר השימוש בדרכון  
+יש להחזירו לרשות שהנפיקה אותו
+
 
