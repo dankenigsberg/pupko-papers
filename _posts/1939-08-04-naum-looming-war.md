@@ -6,6 +6,8 @@ categories:
 tags:
   - naum
   - maydim
+  - schuster
+  - simke
 ---
 
 נחום מספר על ההכנות בפולין למלחמה המתקרבת.
