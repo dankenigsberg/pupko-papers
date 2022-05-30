@@ -1,6 +1,6 @@
 ---
 title: שוסטר כותב לזאב
-date: 1939-09-15
+date: 1939-08-04
 categories:
   - letter
 tags:
