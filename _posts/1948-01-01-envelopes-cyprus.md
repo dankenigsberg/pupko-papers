@@ -29,7 +29,7 @@ Sara Ajzenfeld
 
 Sara Ajzenfeld  
 Special Kamp No 65 c/18 Dror  
-Ship "Patria" - "Mםledet"  
+Ship "Patria" - "Moledet"  
 Cyprus  
 
 ---
