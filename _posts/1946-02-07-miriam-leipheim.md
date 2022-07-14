@@ -23,3 +23,9 @@ DR 165
 UNRRA  
 LEIPHEIM  
 Block 16
+
+## הערות
+
+בארכיון של לייפהיים נמצאו [כמה מסמכים](https://collections.arolsen-archives.org/de/search/person/66980003?s=miriam%20aizenfeld&t=222908&p=1) בהם מירים מוזכרת.
+למשל, [טופס הרישום](https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0604/3134361/001.jpg)
+שלה למחנה בתאריך 1946-01-15.
