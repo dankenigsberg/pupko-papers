@@ -24,6 +24,12 @@ tags:
 
 ## תרגום
 
+שלום ריבהלה יקרה!
+
+אני יכולה למסור לך שהגענו לאיטליה לעיר מילאנו.
+הגענו למחנה מעבר שאליו היה צורך לשלוח אותנו להכשרה.
+חנהלה נשארה בבַאֵרן.
+
 ## מקור
 
 שלום טייערע ריוועלע! איך קען דיר איבערגעבן
@@ -54,6 +60,6 @@ tags:
   
 Italia  
 Milano  
-Via Uniona 5  
+[Via Uniona 5](https://www.google.com/maps/@45.4618081,9.187559,3a,75y,54.45h,99.39t/data=!3m7!1e1!3m5!1sGx5LhbzfPWWBbo1ojYd3Eg!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fpanoid%3DGx5LhbzfPWWBbo1ojYd3Eg%26cb_client%3Dmaps_sv.tactile.gps%26w%3D203%26h%3D100%26yaw%3D39.907417%26pitch%3D0%26thumbfov%3D100!7i16384!8i8192)  
 Chaim (Dror)  
 Kvucat Lea  
