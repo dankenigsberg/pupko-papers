@@ -9,6 +9,7 @@ tags:
   - sonia
   - threads
   - cyprus
+  - firon
 ---
 
 <figure class="half">

@@ -6,6 +6,7 @@ categories:
 tags:
   - rivka
   - ginstlung
+  - firon
 ---
 
 כשנה אחרי העברת הכסף הקודמת, אייזיק גינסטלונג מזרז את סבתא רבקה
