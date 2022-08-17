@@ -1,12 +1,11 @@
 ---
-title: "טרם תורגם - מדוע אינך כותבת?"
+title: "הירש: מדוע אינך כותבת?"
 date: 1939-12-06
 categories:
   - letter
 tags:
   - rivka
   - hirschpupko
-  - needtrans
 ---
 
 אני יכול רק לנחש כמה מתוסכלת היתה סבתא רבקה
