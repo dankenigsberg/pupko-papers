@@ -11,6 +11,7 @@ tags:
   - werses
   - sonia
   - cyprus
+  - africa
   - israelicl
 ---
 

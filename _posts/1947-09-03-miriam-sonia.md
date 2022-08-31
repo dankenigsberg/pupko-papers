@@ -7,6 +7,7 @@ tags:
   - rivka
   - miriam
   - sonia
+  - africa
 ---
 
 "שניפגש בקרוב, כל שרידי משפחתנו הקטנה"
