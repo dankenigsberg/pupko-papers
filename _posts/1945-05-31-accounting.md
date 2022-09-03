@@ -7,6 +7,7 @@ tags:
   - rivka
   - ginstlung
   - firon
+  - needtrans
 ---
 
 אולי נמצא כאן רמזים לעלות שכר הדירה של סבתא

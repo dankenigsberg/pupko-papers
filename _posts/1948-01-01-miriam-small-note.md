@@ -7,6 +7,7 @@ tags:
   - rivka
   - unknowndate
   - cyprus
+  - needtrans
 ---
 
 ייתכן שזה אחד המכתבים הראשונים להגיע מקפריסין.

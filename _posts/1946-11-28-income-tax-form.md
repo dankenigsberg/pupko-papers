@@ -6,6 +6,7 @@ categories:
 tags:
   - zeev
   - income
+  - needtrans
 ---
 
 תלוש תשלום (מס הכנסה)

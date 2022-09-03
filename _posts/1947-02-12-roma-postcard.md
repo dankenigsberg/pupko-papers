@@ -5,6 +5,7 @@ categories:
   - letter
 tags:
   - rivka
+  - needtrans
 ---
 
 ![Piazza S.Pietro](/pupko-papers/assets/images/1947-02-12-roma-content.jpg)

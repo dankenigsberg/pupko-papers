@@ -6,6 +6,7 @@ categories:
 tags:
   - zeev
   - income
+  - needtrans
 ---
 
 ![text](/pupko-papers/assets/images/1945-03-05-income-tax.jpg)
