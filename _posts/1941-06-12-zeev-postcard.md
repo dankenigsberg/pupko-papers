@@ -7,6 +7,7 @@ tags:
   - rivka
   - zeev
   - levinbros
+  - haifa
 ---
 
 עם עלייתו ארצה, סבא זאב עבד כפועל ב[עסק של גיסו, יעקב לוין](https://www.nli.org.il/he/sheets/NNL_Ephemera700126927/NNL_Ephemera).

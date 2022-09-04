@@ -7,6 +7,7 @@ tags:
   - rivka
   - sonia
   - cyprus
+  - haifa
 ---
 
 מספיק! כבר עשרות פעמים ארזנו.

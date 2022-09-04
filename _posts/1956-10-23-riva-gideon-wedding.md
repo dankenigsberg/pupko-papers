@@ -5,6 +5,7 @@ categories:
   - letter
 tags:
   - riva
+  - haifa
 ---
 
 ![text](/pupko-papers/assets/images/1956-10-23-riva-gideon-wedding.jpg)

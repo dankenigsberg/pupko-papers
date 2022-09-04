@@ -6,6 +6,7 @@ categories:
 tags:
   - rivka
   - ginstlung
+  - haifa
 ---
 
 הוריה של סבתא רבקה היו אמידים למדי.

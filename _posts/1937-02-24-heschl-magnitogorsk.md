@@ -9,6 +9,7 @@ tags:
   - magnitogorsk
   - levinbros
   - jenia
+  - haifa
 ---
 
 ב-24 בפברואר 1937, בעיר [מגניטוגורסק](https://en.wikipedia.org/wiki/Magnitogorsk) שבהרי אורל,
