@@ -1,6 +1,6 @@
 ---
 title: מרים וסוניה חודש וחצי בקפריסין ולא מקבלות אף מכתב
-date: 1947-01-11
+date: 1947-05-14
 categories:
   - letter
 tags:
@@ -13,14 +13,13 @@ tags:
 ---
 
 <figure class="half">
-    <a  href="/pupko-papers/assets/images/1947-01-11-miriam-big-quashed-1.jpg">
-    <img src="/pupko-papers/assets/images/1947-01-11-miriam-big-quashed-1.jpg"></a>
-    <a  href="/pupko-papers/assets/images/1947-01-11-miriam-big-quashed-2.jpg">
-    <img src="/pupko-papers/assets/images/1947-01-11-miriam-big-quashed-2.jpg"></a>
+    <a  href="/pupko-papers/assets/images/1947-05-14-miriam-big-quashed-1.jpg">
+    <img src="/pupko-papers/assets/images/1947-05-14-miriam-big-quashed-1.jpg"></a>
+    <a  href="/pupko-papers/assets/images/1947-05-14-miriam-big-quashed-2.jpg">
+    <img src="/pupko-papers/assets/images/1947-05-14-miriam-big-quashed-2.jpg"></a>
 </figure>
 
-## תרגום
-### נאוה ליטבק, בעריכתי
+## תרגום: נאוה ליטבק, בעריכתי
 
 ### מסמך עליון עמוד שמאלי (כתב יד של שרה אייזנפלד)
 ריבה'לה, וולוול וישראליק האהובים והיקרים שלי שיחיו ויהיו בריאים.
