@@ -53,4 +53,49 @@ zwrocic wladzy ktora go wydala
 לאחר השימוש בדרכון  
 יש להחזירו לרשות שהנפיקה אותו
 
+### III
+
+pieczęć inspektora do Spraw Emigracyjnych
+---
+No. 020365
+
+KARTA  
+REJESTRACYJNA REEMIGRACYJNA
+
+Nazwisko i imie glowy rodziny ... Kenigsbreg Wulf  
+Wydzanie ...  
+Ilosc osob towarzyszacych .... w tym  
+mezczyzn .... kobiet ...  
+Kraj, z ktorego powracaja PALESTINA  
+
+Pieczęć Konsulatu  
+
+Pieczęć wladz  
+granicznych
+
+M.O.S. Pzm. 3 - XI,38 - 20 000  
+Karta rejestracyjna emigri zamorskiej.
+
+
+חותמת מפקח ההגירה
+
+כַּרְטִיס  
+רישום מחדש הגירה
+
+שם המשפחה ושם הפרטי של ראש המשפחה ... Kenigsbreg Wulf  
+??? ...  
+מספר מלווים .... כולל  
+איש אישה ...  
+המדינה ממנה חוזרים: פלסטינה  
+
+חותמת הקונסוליה
+
+חותמת הסמכות  
+קו גבול
+
+M.O.S. Pzm. 3 - XI,38 - 20 000  
+כרטיס רישום הגירה לחו"ל.
+
+### IV
+
 
