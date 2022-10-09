@@ -96,6 +96,58 @@ Karta rejestracyjna emigri zamorskiej.
 M.O.S. Pzm. 3 - XI,38 - 20 000  
 כרטיס רישום הגירה לחו"ל.
 
-### IV
+### 1
 
+SER.II.Nr.116677  
+Nr 13/163/39
 
+RZECZPOSPOLITA POLSKA  
+M.S.W.  
+REPUBLIQUE POLONAISE  
+M.I.  
+PAZPORT-PASSEPORT
+
+Obywatel polski  
+Citoyen polonais  
+Wulf Kenigsberg
+
+zamieszkały w  
+domicilié à  
+Wilnie
+
+w towarzystwie żony  
+accompagné de sa femme  
+/
+
+i  
+et de  
+/  
+dzieci  
+enfants
+
+Paszport zawiera 40 stron  
+Le passeport contient 40 pages
+
+### 2
+
+Rysopis - Signalements  
+Żona-Femme
+
+Rok urodzenia  
+Date de naissance  
+1914
+
+Miejsce wrodzenia  
+Lieu de naissance  
+Wilno
+
+Stan  
+Etat civil  
+Kawaler - célibataire
+
+Zatrudnienie  
+Profession  
+/
+
+W?ost  
+Taille  
