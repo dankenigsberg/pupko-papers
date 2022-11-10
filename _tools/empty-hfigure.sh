@@ -16,6 +16,8 @@ categories:
   - letter
 tags:
   - rivka
+  - needtrans
+  - unknownauthor
 ---
 
 <figure class="half">
