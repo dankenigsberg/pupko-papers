@@ -16,6 +16,7 @@ categories:
   - letter
 tags:
   - rivka
+  - needtrans
 ---
 
 ![text](/pupko-papers/assets/images/$postdate-content.jpg)
