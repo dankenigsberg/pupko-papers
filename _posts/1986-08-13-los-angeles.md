@@ -14,6 +14,7 @@ tags:
 ---
 
 סבתא רבקה נפטרה ב-1986-06-10. כחודשיים לאחר מכן נשלחה איגרת התנחומים מבני הזוג גורפיין.
+חותמת הדואר על המעטפה מקדימה ביומיים את התאריך על המכתב.
 
 <figure class="half">
     <a  href="/pupko-papers/assets/images/1986-08-13-los-agenles-1.jpg">
@@ -24,6 +25,10 @@ tags:
     <img src="/pupko-papers/assets/images/1986-08-13-los-agenles-3.jpg"></a>
     <a  href="/pupko-papers/assets/images/1986-08-13-los-agenles-4.jpg">
     <img src="/pupko-papers/assets/images/1986-08-13-los-agenles-4.jpg"></a>
+    <a  href="/pupko-papers/assets/images/1986-08-11-los-agenles-envelope-1.jpg">
+    <img src="/pupko-papers/assets/images/1986-08-11-los-agenles-envelope-1.jpg"></a>
+    <a  href="/pupko-papers/assets/images/1986-08-11-los-agenles-envelope-2.jpg">
+    <img src="/pupko-papers/assets/images/1986-08-11-los-agenles-envelope-2.jpg"></a>
 </figure>
 
 ## תרגום
