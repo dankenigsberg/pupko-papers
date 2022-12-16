@@ -4,7 +4,7 @@ date: 1955-05-05
 categories:
   - letter
 tags:
-  - unknownsender
+  - unknownauthor
   - unknowndate
   - charlik
 ---

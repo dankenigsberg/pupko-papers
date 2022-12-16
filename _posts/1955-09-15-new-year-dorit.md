@@ -6,7 +6,7 @@ categories:
 tags:
   - dorit
   - unknowndate
-  - unknownsender
+  - unknownauthor
 ---
 
 תאריך לא ידוע. משוער ע"פ כיתה א' של דורית.

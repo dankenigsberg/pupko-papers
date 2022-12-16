@@ -7,7 +7,7 @@ tags:
   - rivka
   - zeev
   - gorfein
-  - losageles
+  - losangeles
   - needtrans
 ---
 

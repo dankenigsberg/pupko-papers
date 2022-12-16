@@ -4,7 +4,7 @@ date: 1958-04-08
 categories:
   - letter
 tags:
-  - unknownsender
+  - unknownauthor
   - majori
   - charlik
 ---

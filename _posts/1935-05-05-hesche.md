@@ -5,7 +5,7 @@ categories:
   - letter
 tags:
   - rivka
-  - unknownsender
+  - unknownauthor
   - unknowndate
 ---
 

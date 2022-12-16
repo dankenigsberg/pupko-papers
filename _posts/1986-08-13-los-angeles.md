@@ -5,7 +5,7 @@ categories:
   - letter
 tags:
   - zeev
-  - losageles
+  - losangeles
   - rachelgorfein
   - gorfein
   - rivka
