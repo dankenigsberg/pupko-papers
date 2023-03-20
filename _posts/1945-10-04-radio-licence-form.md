@@ -14,6 +14,13 @@ tags:
 
 ## תמלול
 
+GOVERNMENT OF PALESTINE  
+ממשלת פלשתינה (א"י)  
+---
+Not Transferable  
+אינו ניתן להעברה  
+
+Wireless Telegraphy (Receiving Stations) Rules 1943  
 תקנות הטלגרף האלחוטי (תחנות קליטה) 1943  
 הרשיון הזה יתם מועדו ביום 30 ספטמבר 1946  
 מר זאב קניגסברג  
