@@ -16,6 +16,9 @@ tags:
 
 ## תרגום
 
+[מעבר לדף]  
+אנא מסור את המכתב לריבה'לה
+
 ## מקור
 
 M. Eizenfeld  
@@ -25,6 +28,9 @@ UNRRA
 LEIPHEIM  
 Block 16
 
+[מעבר לדף]  
+ביטע איבערגעבן ריוועלען  
+דאם בריוו  
 ## הערות
 
 בארכיון של לייפהיים נמצאו [כמה מסמכים](https://collections.arolsen-archives.org/de/search/person/66980003?s=miriam%20aizenfeld&t=222908&p=1) בהם מירים מוזכרת.

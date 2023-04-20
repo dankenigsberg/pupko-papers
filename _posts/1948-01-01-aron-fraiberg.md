@@ -9,12 +9,15 @@ tags:
   - cyprus
 ---
 
+נראה שזה עמוד שני של מכתב
+
 <figure class="half">
     <a  href="/pupko-papers/assets/images/1948-01-01-aron-fraiberg.jpg">
     <img src="/pupko-papers/assets/images/1948-01-01-aron-fraiberg.jpg"></a>
 </figure>
 
 ## תרגום
+II
 
 בימים אלה אנו עוברים למחנה החורף, שם
 אמשיך את לימודי. אימא תעבור
@@ -31,6 +34,8 @@ tags:
 אייזנפלד
 
 ## מקור
+
+II
 
 די טעג פאָרן מיר אריבער אין ווינטער לאגער וווּ דאָרט וועל  
 איך מאמשיך זיַין ויַיטערדיקן לערנען. די מאמע וועט פאָרן  
