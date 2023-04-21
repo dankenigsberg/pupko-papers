@@ -7,6 +7,7 @@ tags:
   - unknownauthor
   - unknowndate
   - charlik
+  - laika
 ---
 
 מי היא השולחת? אחות של הנמענת לייקה? ו מי הם ילדיה פולצ'קה ואדיק?
