@@ -10,7 +10,7 @@ tags:
 
 היתה בהחלט סיבה לדאגה: בפברואר 1986 סבתא רבקה היתה כבר חולה מאוד.
 
-![text](/pupko-papers/assets/images/1986-02-23-sonia.jpg)
+![text](/pupko-papers/assets/images/1986-02-23-sonia-tencer.jpg)
 
 ## תרגום בעזרת גוגל
 1986-02-23
