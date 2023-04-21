@@ -1,12 +1,13 @@
 ---
-title: טרם תורגם - איגרת אוויר מאמריקה
+title: טרם תורגם - איגרת אוויר - גורפיין בלוס אנגלס
 date: 1980-03-24
 categories:
   - letter
 tags:
   - rivka
   - needtrans
-  - unknownauthor
+  - gorfein
+  - losangeles
 ---
 
 <figure class="half">
