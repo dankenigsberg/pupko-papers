@@ -1,10 +1,11 @@
 ---
-title: מחברת לא מוכרת כותבת ללייקה לא מוכרת
+title: דורה כלשהי כותבת ללייקה לא מוכרת
 date: 1958-04-08
 categories:
   - letter
 tags:
-  - unknownauthor
+  - dora
+  - riga
   - majori
   - charlik
   - laika

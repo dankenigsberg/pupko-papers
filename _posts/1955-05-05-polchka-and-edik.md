@@ -4,10 +4,11 @@ date: 1955-05-05
 categories:
   - letter
 tags:
-  - unknownauthor
+  - dora
   - unknowndate
   - charlik
   - laika
+  - polchka
 ---
 
 מי היא השולחת? אחות של הנמענת לייקה? ו מי הם ילדיה פולצ'קה ואדיק?
