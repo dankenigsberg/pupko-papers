@@ -1,13 +1,14 @@
 ---
-title: טרם פוענח - שרבוטים
-date: 1990-05-05-scribbles
+title: שרבוטים
+date: 1990-05-05
 categories:
   - letter
 tags:
   - zeev
-  - needtrans
   - unknowndate
 ---
+
+שרבוטים של עמיר.
 
 <figure class="half">
     <a  href="/pupko-papers/assets/images/1990-05-05-scribbles-1.jpg">
