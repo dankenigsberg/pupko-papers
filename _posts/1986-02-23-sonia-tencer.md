@@ -6,6 +6,7 @@ categories:
 tags:
   - tencer
   - montreal
+  - badtran
 ---
 
 היתה בהחלט סיבה לדאגה: בפברואר 1986 סבתא רבקה היתה כבר חולה מאוד.

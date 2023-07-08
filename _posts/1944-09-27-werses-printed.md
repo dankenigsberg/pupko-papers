@@ -6,6 +6,7 @@ categories:
 tags:
   - werses
   - israelicl
+  - badtrans
 ---
 
 וולף ודובה פופקו נרצחו בראשית יולי 1944 עם חיסול מחנה [ה.ק.פ.](https://en.wikipedia.org/wiki/HKP_562_forced_labor_camp)
