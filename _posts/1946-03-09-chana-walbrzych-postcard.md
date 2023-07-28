@@ -68,3 +68,7 @@ W Kenigsberg
 65 Maze st  
 Tel Aviv  
 Palestina
+
+## 2023
+
+[רחוב ידוויגה 3, וולבז'יך, 2023](/pupko-papers/assets/images/2023-07-27-Jadwiga-3.jpg)
