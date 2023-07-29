@@ -9,7 +9,7 @@ tags:
 ---
 
 חנה הצליחה לצאת מברית המועצות אל פולין.
-כעת היא נמצאת ב[ולבז'יך](https://en.wikipedia.org/wiki/Wa%C5%82brzych) שכרובה לגבול הצ'כוסלובקי.
+כעת היא נמצאת ב[ולבז'יך](https://en.wikipedia.org/wiki/Wa%C5%82brzych) שקרובה לגבול הצ'כוסלובקי.
 היא רומזת שהיא לא תישאר שם זמן רב - היא תחצה את הגבול ותגיע לגרמניה, לאיטליה, ולארץ ישראל.
 
 
@@ -62,10 +62,10 @@ tags:
 ## כתובות
 
 H. Pupko  
-[Świętej Jadwigi](https://goo.gl/maps/BrYtcXKp8UHUPTea9) 3, Wałbrzych, Polska
+[Świętej Jadwigi 3](https://maps.app.goo.gl/DBWiyACc2CXtKMHq5), Wałbrzych, Polska
 
 W Kenigsberg  
-65 Maze st  
+[65 Maze st](https://maps.app.goo.gl/DBWiyACc2CXtKMHq5)  
 Tel Aviv  
 Palestina
 
