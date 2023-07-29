@@ -9,7 +9,16 @@ tags:
 ---
 
 הודות ליעל קאופמן מ"[בנתיבי העפלה](http://maapilim.org.il)" נודע לנו על ארכיון ארוסלן
-שבו נשמר [טופס הרישום](https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0604/3134361/001.jpg) של מרים.
+שבו נשמר [טופס הרישום](https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0604/3134361/001.jpg) של מרים
+וכן [כמה מסמכים נוספים](https://collections.arolsen-archives.org/en/search/person/82006975?s=Eisenfeld%20Miriam&t=239777&p=0)
+בהם היא מוזכרת.
+
+גם דודה [סוניה](https://collections.arolsen-archives.org/en/search/person/66980012?s=Eisenfeld%20Sara&t=2737076&p=0) מוזכרת שם בכמה מסמכים.
+
+בין השאר מוזכר שם [בעל](https://collections-server.arolsen-archives.org/G/ITS_DATA_EXPORT_DP/03010101/0605/3134368/001.jpg)
+בשם יוסף סימון ובן ובת חורגים, בשם אברהם וחנה.
+לא היה לי מושג על פרק זה בחייה (ואולי אלה היו רק נישואים-לצורך-הטבה כלשהי).
+המשך מחקר מתבקש.
 
 ![registration record](/pupko-papers/assets/images/1946-01-25-miriam-leipheim-registration-record.jpg)
 
