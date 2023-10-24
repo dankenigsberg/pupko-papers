@@ -9,6 +9,8 @@ tags:
   - zeev
   - gorfein
   - losangeles
+  - israelicl
+  - dorit
 ---
 
 יוסי גורפיין היה בנם של מוניה
