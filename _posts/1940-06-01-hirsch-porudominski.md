@@ -8,9 +8,10 @@ tags:
   - maydim
   - rivka
   - zeev
+  - hirschporud
 ---
 
-אפי ניחש שהשולח הוא [הירש פורונומינסקי](https://yleksikon.blogspot.com/2018/07/hirsh-porudominski.html)
+אפי ניחש שהשולח הוא [הירש פורודומינסקי](https://yleksikon.blogspot.com/2018/07/hirsh-porudominski.html)
 ממקימי [תיאטרון מיידים](https://dankenigsberg.github.io/pupko-papers/musing/1940/06/04/maydim-theatre/).
 גם על פי שמו הפרטי הירש/הירשל, שנת הלידה (1913, שנה לפני סבא זאב).
 
